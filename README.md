@@ -1,16 +1,20 @@
-# barcode_scanner_app
+While working on this app, which scans ISBN barcodes to find and add books to a list, I used the following packages:
 
-A new Flutter project.
+provider
 
-## Getting Started
+mobile_scanner
 
-This project is a starting point for a Flutter application.
+syncfusion_flutter_xlsio
 
-A few resources to get you started if this is your first Flutter project:
+path_provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+permission_handler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_local_notifications
+
+open_file
+
+I am still working on exporting the book list to Excel.
+
+https://github.com/user-attachments/assets/6488504e-58fc-4e85-bb17-f660bc2af3a2
+
